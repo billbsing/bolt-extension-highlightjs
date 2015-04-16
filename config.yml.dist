@@ -1,4 +1,14 @@
 # Hightlightjs Style name
 
 
+# it can be anyone of the following styles:
+# agate, androidstudio, arta, ascetic, atelier-dune.dark, atelier-dune.light, atelier-forest.dark, atelier-forest.light
+# atelier-heath.dark, atelier-heath.light, atelier-lakeside.dark, atelier-lakeside.light, atelier-seaside.dark
+# atelier-seaside.light, atelier-sulphurpool.dark, atelier-sulphurpool.light, brown_paper
+# codepen-embed, color-brewer, dark, darkula, default, docco, far, foundation, github, googlecode, hybrid, idea
+# ir_black, kimbie.dark, kimbie.light, magula, mono-blue, monokai, monokai_sublime, obsidian, paraiso.dark
+# paraiso.light, pojoaque, railscasts, rainbow, school_book, school_book.png, solarized_dark, solarized_light
+# sunburst, tomorrow, tomorrow-night-blue, tomorrow-night-bright, tomorrow-night, tomorrow-night-eighties
+# vs, xcode, zenburn
+
 highlightjs_style: default
