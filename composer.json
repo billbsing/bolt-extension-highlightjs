@@ -15,8 +15,7 @@
     ],
     "autoload": {
         "files": [
-            "init.php",
-            "config.yml"
+            "init.php"
         ],
         "psr-4": {
             "Bolt\\Extension\\billbsing\\highlightjs\\": ""
