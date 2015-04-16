@@ -1,5 +1,5 @@
 {
-    "name": "billbsing/Highlightjs",
+    "name": "billbsing/highlightjs",
     "description": "Syntax highlighting for the Web using Highlight.js",
     "type": "bolt-extension",
     "keywords": ["code", "highlighting", "css"],
@@ -19,7 +19,7 @@
             "config.yml"
         ],
         "psr-4": {
-            "Bolt\\Extension\\billbsing\\Highlightjs\\": ""
+            "Bolt\\Extension\\billbsing\\highlightjs\\": ""
         }
     },
     

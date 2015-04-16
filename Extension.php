@@ -1,6 +1,6 @@
 <?php
 
-namespace Bolt\Extension\billbsing\Highlightjs;
+namespace Bolt\Extension\billbsing\highlightjs;
 
 use Bolt\Application;
 use Bolt\BaseExtension;
@@ -22,7 +22,7 @@ class Extension extends BaseExtension
 
     public function getName()
     {
-        return "Highlightjs";
+        return "highlightjs";
     }
     
 }
