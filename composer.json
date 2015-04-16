@@ -2,6 +2,7 @@
     "name": "billbsing/highlightjs",
     "description": "Syntax highlighting for the Web using Highlight.js",
     "type": "bolt-extension",
+    "minimum-stability": "dev",
     "keywords": ["code", "highlighting", "css"],
     "require": {
         "bolt/bolt": ">=2.0.0,<3.0.0"
