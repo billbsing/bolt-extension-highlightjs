@@ -13,7 +13,7 @@ class Extension extends BaseExtension
         if ( $this->config and isset($this->config['highlightjs_style'] ) ) {
             $styleName = $this->config['highlightjs_style'];
         }      
-        $path = $this->app['paths']['extensions'].'billbsing/'.$this->getName().'/'; 
+        $path = $this->app['paths']['extensions'].'vendor/billbsing/'.$this->getName().'/'; 
         $this->addCss('assets/styles/'.$styleName.'.css');
 //        $this->addJavascript($path.'assets/highlight.pack.js');
         $this->addSnippet('endofbody', '<script src="'.$path.'assets/highlight.pack.js"></script>' 
