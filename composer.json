@@ -1,0 +1,28 @@
+{
+    "name": "billbsing/Highlightjs",
+    "description": "Syntax highlighting for the Web using Highlight.js",
+    "type": "bolt-extension",
+    "keywords": ["code", "highlighting", "css"],
+    "require": {
+        "bolt/bolt": ">=2.0.0,<3.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Billbsing", 
+            "email": "billbsing@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "init.php"
+        ],
+        "psr-4": {
+            "Bolt\\Extension\\billbsing\\Highlightjs\\": ""
+        }
+    },
+    
+    "extra": {
+        "bolt-assets": "assets"
+    }
+}
